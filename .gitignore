@@ -1,0 +1,9 @@
+.hg
+.hgignore
+*.sdf
+*.opensdf
+*.suo
+index.dat
+ipch/
+Debug
+
